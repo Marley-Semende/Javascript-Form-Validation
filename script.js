@@ -1,3 +1,5 @@
+"use strict";
+
 //add focus event listener
 const inputElem = document.querySelectorAll(".input");
 inputElem.forEach((element) => {
